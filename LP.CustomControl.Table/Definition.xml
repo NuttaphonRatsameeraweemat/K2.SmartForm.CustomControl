@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ControlType>
+  <FullName>LP.CustomControl.Table.TableControl, LP.CustomControl.Table</FullName>
+  <Category>Display</Category>
+  <Group>Custom</Group>
+  <Name>ReportingTable</Name>
+</ControlType>
